@@ -1,7 +1,6 @@
 #!/bin/sh
 
-# Author : Zara Ali
-# Copyright (c) Tutorialspoint.com
+# Author : Vikky
 # Script follows here:
 
 echo "What is your name?"
