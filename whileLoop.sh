@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Author : Vikky
+# Author : Vikky Bennu
 # Script follows here:
 
 a=0
